@@ -177,6 +177,3 @@ Features:
 | [core](https://github.com/InputActions/core) | Contains all of InputActions' environment-independent code |
 | [libevdev-cpp](https://github.com/InputActions/libevdev-cpp) | C++ wrapper for libevdev |
 | [libinput-cpp](https://github.com/InputActions/libinput-cpp) | C++ wrapper for libinput |
-
-## Contact
-Users who do not wish to use GitHub may submit issues and patches by sending an e-mail to m``[at]``rcin``[dot]``dev (address subject to change).
