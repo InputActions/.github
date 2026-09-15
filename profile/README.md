@@ -1,6 +1,7 @@
 # InputActions
 - **Installation guide & getting started:** [wiki.inputactions.org/main/getting-started](https://wiki.inputactions.org/main/getting-started)
 - **Issue tracker and discussions for all projects:** [github.com/InputActions/discussions](https://github.com/InputActions/discussions)
+- **Donate:** [wiki.inputactions.org/main/donate](https://wiki.inputactions.org/main/donate)
 
 InputActions is a Linux utility for binding various input device actions (keyboard shortcuts, mouse/touchpad gestures etc.) to system actions.
 
@@ -161,6 +162,7 @@ Features:
 | Name | Description |
 |-|-|
 | [ctl](https://github.com/InputActions/ctl) | The ``inputactions`` control tool |
+| [discussions](https://github.com/InputActions/discussions) | Global issue tracker and discussions |
 | [installer](https://github.com/InputActions/installer) | Installation script |
 | [wiki](https://github.com/InputActions/wiki) | Source for [wiki.inputactions.org](https://wiki.inputactions.org) |
 
@@ -170,6 +172,12 @@ Features:
 | [hyprland](https://github.com/InputActions/hyprland) | Hyprland plugin implementation |
 | [kwin](https://github.com/InputActions/kwin) | KWin (Plasma's compositor) plugin implementation |
 | [standalone](https://github.com/InputActions/standalone) | Standalone implementation |
+
+### Scripting
+| Name | Description |
+|-|-|
+| [script-template](https://github.com/InputActions/script-template) | InputActions script template  |
+| [scripting-types](https://github.com/InputActions/scripting-types) | TypeScript type declarations for the scripting API |
 
 ### Libraries
 | Name | Description |
